@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2940454352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b6f6931a5f5d7cb4a54c49709012d444
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1397ad235555a4f37791d5b3ff19e7a7
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b6f6931a5f5d7cb4a54c49709012d444
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Entity/Vehicle/vehicle_playerShip/Materials/vehicle_playerShip_glass_mat.mat
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Entity/Vehicle/vehicle_playerShip/Materials/vehicle_playerShip_metal_mat.mat
+Dependencies: []

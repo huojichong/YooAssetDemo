@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2599075352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 317ca31accea64cd162bf2badfa9cc80
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 317ca31accea64cd162bf2badfa9cc80
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameRes/UIAtlas/common.spriteatlas
+Dependencies:
+- /Users/jichong/WorkSpace/UnityProj/YooAssetDemo/Bundles/StandaloneOSX/DefaultPackage/OutputCache/share_assets_samples_yooasset_2_1_1_space
+  shooter_gameart_uisprite_common_arrows.bundle
+- /Users/jichong/WorkSpace/UnityProj/YooAssetDemo/Bundles/StandaloneOSX/DefaultPackage/OutputCache/share_assets_samples_yooasset_2_1_1_space
+  shooter_gameart_uisprite_common_bars.bundle
+- /Users/jichong/WorkSpace/UnityProj/YooAssetDemo/Bundles/StandaloneOSX/DefaultPackage/OutputCache/share_assets_samples_yooasset_2_1_1_space
+  shooter_gameart_uisprite_common_buttons.bundle
+- /Users/jichong/WorkSpace/UnityProj/YooAssetDemo/Bundles/StandaloneOSX/DefaultPackage/OutputCache/share_assets_samples_yooasset_2_1_1_space
+  shooter_gameart_uisprite_common_window.bundle

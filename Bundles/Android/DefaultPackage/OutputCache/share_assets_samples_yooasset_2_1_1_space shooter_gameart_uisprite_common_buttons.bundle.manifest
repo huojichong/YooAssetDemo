@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2067066320
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81de059ccfa796cc7135176c86133679
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 923768aebf385ad86f7762daa8034951
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 81de059ccfa796cc7135176c86133679
+HashAppended: 0
+ClassTypes:
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UISprite/common/buttons/rocket.png
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UISprite/common/buttons/button_pushed.png
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UISprite/common/buttons/pause.png
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UISprite/common/buttons/bullets.png
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UISprite/common/buttons/button_active.png
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UISprite/common/buttons/button1.png
+Dependencies: []

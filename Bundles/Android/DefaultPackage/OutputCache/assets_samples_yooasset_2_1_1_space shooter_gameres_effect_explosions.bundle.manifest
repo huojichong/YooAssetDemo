@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3825504181
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5754a2be058a62824791b77e9f93370
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7ca039c53e9f1ae5b870f9a584a516dd
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d5754a2be058a62824791b77e9f93370
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 014c1f9b87e247446bd7d558f8bf143e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameRes/Effect/Explosions/explosion_player.prefab
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameRes/Effect/Explosions/explosion_asteroid.prefab
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameRes/Effect/Explosions/explosion_enemy.prefab
+Dependencies:
+- /Users/jichong/WorkSpace/UnityProj/YooAssetDemo/Bundles/Android/DefaultPackage/OutputCache/assets_samples_yooasset_2_1_1_space
+  shooter_gameres_audio.bundle
+- /Users/jichong/WorkSpace/UnityProj/YooAssetDemo/Bundles/Android/DefaultPackage/OutputCache/share_assets_samples_yooasset_2_1_1_space
+  shooter_gameart_effect.bundle

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1360882667
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1151e3ff9a86edab8a75de60ebb3c32f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 923768aebf385ad86f7762daa8034951
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1151e3ff9a86edab8a75de60ebb3c32f
+HashAppended: 0
+ClassTypes:
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UISprite/common/window/window_transparent.png
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UISprite/common/window/window_transparent1.png
+Dependencies: []

@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 3389749151
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 547a252c4f09b586aa267d949e2f5d7b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 027c075d39cbe5a2672449a9a91ee581
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 547a252c4f09b586aa267d949e2f5d7b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d3933af4e188ec44683e3c52784eadb0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: RoomBoundary
+Assets:
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameRes/Entity/player_ship.prefab
+Dependencies:
+- /Users/jichong/WorkSpace/UnityProj/YooAssetDemo/Bundles/WebGL/DefaultPackage/OutputCache/assets_samples_yooasset_2_1_1_space
+  shooter_gameres_audio.bundle
+- /Users/jichong/WorkSpace/UnityProj/YooAssetDemo/Bundles/WebGL/DefaultPackage/OutputCache/share_assets_samples_yooasset_2_1_1_space
+  shooter_gameart_effect.bundle
+- /Users/jichong/WorkSpace/UnityProj/YooAssetDemo/Bundles/WebGL/DefaultPackage/OutputCache/share_assets_samples_yooasset_2_1_1_space
+  shooter_gameart_entity_vehicle_vehicle_playership.bundle

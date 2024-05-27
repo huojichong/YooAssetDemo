@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1142593097
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97746b2b4248306ca8e2aed714135c4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8becd547c702b21343d9309dc05a5f64
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 97746b2b4248306ca8e2aed714135c4b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UIFont/zekton free.ttf
+Dependencies: []

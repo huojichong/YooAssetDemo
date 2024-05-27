@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 384466283
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 18bce42b4c5a61786d10fdf096ee5d17
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4fe1fdcbb1a331074c17958100faf9a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 18bce42b4c5a61786d10fdf096ee5d17
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Entity/Vehicle/vehicle_enemyShip/vehicle_enemyShip_glow_mat.mat
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Entity/Vehicle/vehicle_enemyShip/vehicle_enemyShip_nrm.tif
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Entity/Vehicle/vehicle_enemyShip/vehicle_enemyShip.FBX
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Entity/Vehicle/vehicle_enemyShip/vehicle_enemyShip_metal_mat.mat
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Entity/Vehicle/vehicle_enemyShip/vehicle_enemyShip_purple_dff.tif
+Dependencies:
+- /Users/jichong/WorkSpace/UnityProj/YooAssetDemo/Bundles/WebGL/DefaultPackage/OutputCache/share_assets_samples_yooasset_2_1_1_space
+  shooter_gameart_scene.bundle
+- /Users/jichong/WorkSpace/UnityProj/YooAssetDemo/Bundles/WebGL/DefaultPackage/OutputCache/unityshaders.bundle

@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 4077414093
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2af6967d2d1fa29fd0e6e80ce5e5936b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4fe1fdcbb1a331074c17958100faf9a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2af6967d2d1fa29fd0e6e80ce5e5936b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Entity/Vehicle/vehicle_playerShip/vehicle_playerShip.FBX
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Entity/Vehicle/vehicle_playerShip/vehicle_playerShip_metal_mat.mat
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Entity/Vehicle/vehicle_playerShip/vehicle_playerShip_glass_mat.mat
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Entity/Vehicle/vehicle_playerShip/vehicle_playerShip_collider.FBX
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Entity/Vehicle/vehicle_playerShip/vehicle_playerShip_orange_nrm.tif
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Entity/Vehicle/vehicle_playerShip/vehicle_playerShip_orange_dff.tif
+Dependencies:
+- /Users/jichong/WorkSpace/UnityProj/YooAssetDemo/Bundles/StandaloneOSX/DefaultPackage/OutputCache/share_assets_samples_yooasset_2_1_1_space
+  shooter_gameart_entity_vehicle_vehicle_playership_materials.bundle
+- /Users/jichong/WorkSpace/UnityProj/YooAssetDemo/Bundles/StandaloneOSX/DefaultPackage/OutputCache/share_assets_samples_yooasset_2_1_1_space
+  shooter_gameart_scene.bundle
+- /Users/jichong/WorkSpace/UnityProj/YooAssetDemo/Bundles/StandaloneOSX/DefaultPackage/OutputCache/unityshaders.bundle

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2215920393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8af2e035a0087e403dd15fefc82625b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 923768aebf385ad86f7762daa8034951
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8af2e035a0087e403dd15fefc82625b8
+HashAppended: 0
+ClassTypes:
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UISprite/common/bars/bar_blue.png
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UISprite/common/bars/bar_blue1.png
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UISprite/common/bars/progress_bar_background.png
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UISprite/common/bars/progress_bar.png
+Dependencies: []

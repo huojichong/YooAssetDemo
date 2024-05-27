@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3963248064
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea40e0fc0c0fa76067802700f6a42469
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31a8e35008e8aab720d0136425be6fad
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ea40e0fc0c0fa76067802700f6a42469
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UIAnim/UIBgEffect.anim
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UIAnim/UIBgEffect.controller
+Dependencies: []

@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3659617707
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f16d89408f22605f5f31c00bff9fc873
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d4a4be0a756385be3baceab06941dff0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f16d89408f22605f5f31c00bff9fc873
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a9d4ddd3c4e60245b6bc4f9f1435291, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameRes/Entity/player_bullet.prefab
+Dependencies:
+- /Users/jichong/WorkSpace/UnityProj/YooAssetDemo/Bundles/WebGL/DefaultPackage/OutputCache/share_assets_samples_yooasset_2_1_1_space
+  shooter_gameart_effect.bundle

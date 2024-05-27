@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 3378137789
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a69365d58ec3733ec997d298514b4d47
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 946867070810f8b5439fcae164a3fc52
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a69365d58ec3733ec997d298514b4d47
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2bfcc4f450a0b94bb7748fb4788630e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameRes/UIPanel/UILoading.prefab
+Dependencies:
+- /Users/jichong/WorkSpace/UnityProj/YooAssetDemo/Bundles/WebGL/DefaultPackage/OutputCache/assets_samples_yooasset_2_1_1_space
+  shooter_gameres_uiimage.bundle
+- /Users/jichong/WorkSpace/UnityProj/YooAssetDemo/Bundles/WebGL/DefaultPackage/OutputCache/share_assets_samples_yooasset_2_1_1_space
+  shooter_gameart_uifont.bundle
