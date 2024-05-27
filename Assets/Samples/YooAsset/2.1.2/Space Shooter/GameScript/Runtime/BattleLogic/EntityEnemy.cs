@@ -83,15 +83,15 @@ public class EntityEnemy : MonoBehaviour
     async UniTaskVoid EvadeAsync()
     {
         // yield return new WaitForSeconds(Random.Range(StartWait.x, StartWait.y));
-        await Task.Delay(TimeSpan.FromSeconds(Random.Range(StartWait.x, StartWait.y)));
+        await UniTask.Delay(TimeSpan.FromSeconds(Random.Range(StartWait.x, StartWait.y)));
         while (true)
         {
             _targetManeuver = Random.Range(1, Dodge) * -Mathf.Sign(transform.position.x);
             // yield return new WaitForSeconds(Random.Range(ManeuverTime.x, ManeuverTime.y));
-            await Task.Delay(TimeSpan.FromSeconds(Random.Range(ManeuverTime.x, ManeuverTime.y)));
+            await UniTask.Delay(TimeSpan.FromSeconds(Random.Range(ManeuverTime.x, ManeuverTime.y)));
             _targetManeuver = 0;
             // yield return new WaitForSeconds(Random.Range(ManeuverWait.x, ManeuverWait.y));
-            await Task.Delay(TimeSpan.FromSeconds(Random.Range(ManeuverWait.x, ManeuverWait.y)));
+            await UniTask.Delay(TimeSpan.FromSeconds(Random.Range(ManeuverWait.x, ManeuverWait.y)));
         }
     }
 }
