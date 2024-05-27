@@ -22,7 +22,7 @@ public class GameManager
     /// <summary>
     /// 协程启动器
     /// </summary>
-    // public MonoBehaviour Behaviour;
+    public MonoBehaviour Behaviour;
 
 
     private GameManager()

@@ -20,7 +20,7 @@ public class Boot : MonoBehaviour
     async UniTaskVoid Start()
     {
         // 游戏管理器
-        // GameManager.Instance.Behaviour = this;
+        GameManager.Instance.Behaviour = this;
 
         // 初始化事件系统
         UniEvent.Initalize();
@@ -42,6 +42,7 @@ public class Boot : MonoBehaviour
         var gamePackage = YooAssets.GetPackage("DefaultPackage");
         YooAssets.SetDefaultPackage(gamePackage);
 
+        Debug.Log("Boot Complete");
         // 切换到主页面场景
         SceneEventDefine.ChangeToHomeScene.SendEventMessage();
     }
