@@ -60,15 +60,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-Tapaway/Assets/.qframework/PackageManager/PackageInfosRequestCache.json
-Tapaway/Assets/StreamingAssets/AssetBundles/Android/
-Tapaway/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-9_3_0.bundle
-Tapaway/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-9_3_0.bundle.meta
-Tapaway/Assets/Plugins/Android/FirebaseCrashlytics.androidlib/res/values/crashlytics_build_id.xml
-Tapaway/UserSettings/Layouts/default-2021.dwlt
-Tapaway/Assets/Plugins/Android/FirebaseCrashlytics.androidlib/res/values/crashlytics_build_id.xml
-Tapaway/ProjectSettings/GvhProjectSettings.xml
-TapawayEditor/Assets/output.txt
-TapawayEditor/Assets/output.txt.meta
-Tapaway/Assets/MainGame/Scene/Test1.unity
-Tapaway/Assets/MainGame/Scene/Test1.unity.meta
+Bundles/*
+
